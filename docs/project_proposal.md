@@ -4,7 +4,7 @@
 
 \## Intern Details
 
-\- Name: \[Muskan Khadka]
+\- Name: \Muskan Khadka
 
 \- Program: Techaxis Remote Data Science Internship
 
