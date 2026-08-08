@@ -1,0 +1,12 @@
+{
+  "model": "llama-3.1-8b-instant",
+  "provider": "Groq",
+  "prompts_designed": [
+    "Product Summary Generator",
+    "Value Analysis Advisor",
+    "Shopping Tip Generator"
+  ],
+  "avg_tokens_per_call": "~200",
+  "total_test_calls": 10,
+  "week": 5
+}
