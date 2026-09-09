@@ -8,3 +8,4 @@ venv/
 
 models/*.pklmodels/faiss_index.bin 
 models/product_embeddings.npy 
+.streamlit/secrets.toml
