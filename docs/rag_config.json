@@ -1,0 +1,10 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "total_products_indexed": 8000,
+  "faiss_index_path": "models/faiss_index.bin",
+  "embeddings_path": "models/product_embeddings.npy",
+  "llm_model": "llama-3.1-8b-instant",
+  "llm_provider": "Groq",
+  "week": 6
+}
